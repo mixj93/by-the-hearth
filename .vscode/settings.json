@@ -1,0 +1,5 @@
+{
+  "path-intellisense.mappings": {
+    "antd": "${workspaceRoot}/node_modules/antd"
+  }
+}
